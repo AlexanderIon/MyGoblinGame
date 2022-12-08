@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // gonlin.movingdGoblin();
     // console.log('click')
     // statusGame = true;
-    const myInterval = setInterval(() => {
+    setInterval(() => {
       gonlin.movingdGoblin();
     }, 1500);
   });
