@@ -1,7 +1,7 @@
 {
   "name": "game",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/hjwjkj7iouxkt5j9/branch/main?svg=true)](https://ci.appveyor.com/project/AlexanderIon/mygoblingame/branch/main)",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -28,5 +28,13 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderIon/MyGoblinGame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexanderIon/MyGoblinGame/issues"
+  },
+  "homepage": "https://github.com/AlexanderIon/MyGoblinGame#readme"
 }
